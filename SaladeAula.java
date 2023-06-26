@@ -6,7 +6,7 @@ package com.mycompany.salajanela;
 
 /**
  *
- * @author senai
+ * @PablineRibeiro Senai Osasco Curso Java prof. André
  */
 public class SaladeAula {
 
